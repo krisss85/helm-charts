@@ -99,6 +99,7 @@ postgresql:
   #   database:
   #   user:
   #   password:
+  storageClass: standard
 
 api:
   # -- A 32 character API token that your Infracost CLI users will use to authenticate when calling your self-hosted Cloud Pricing API. If left empty, the helm chat will generate one for you.
